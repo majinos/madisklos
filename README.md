@@ -1,2 +1,4 @@
 # madisklos
 WELKOM
+
+DALOS
